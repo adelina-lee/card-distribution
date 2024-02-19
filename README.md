@@ -2,7 +2,7 @@
 
 This is a simple web application built with React that allows users to distribute cards among a specified number of people.
 
-Total Time Spent: 12 hours +/-
+Total Time Spent: 24 hours +/-
 
 ## Features
 
